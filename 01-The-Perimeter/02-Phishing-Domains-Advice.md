@@ -9,7 +9,7 @@ When operating within modern security architecture, **domain age is critical**. 
 ```
 Domain Registration Timeline:
 Day 0:  [New Domain]    → Blocked by most filters
-Day 15: [Still New]     → Still高风险
+Day 15: [Still New]     → Still New
 Day 30: [Established]   → Passes age-based filtering
 Day 60: [Trusted]       → Lower suspicion score
 ```
