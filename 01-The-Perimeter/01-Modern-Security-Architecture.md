@@ -2,8 +2,6 @@
 
 ## From External to Internal: The Inbound Journey
 
-*Note: I apologize for the rapid color change in the diagram. We transitioned from a gray background to pure white, which I'm sure is searing your eyes. The only way I could effectively draw this architecture diagram was using a white background. Hope it doesn't hurt your eyes too much!*
-
 In this section, we'll explore the modern security architecture that social engineers face when conducting phishing campaigns. Understanding this landscape is crucial for both attackers trying to bypass defenses and defenders trying to strengthen them.
 
 ### The Inbound Path: Getting to the User's Inbox
