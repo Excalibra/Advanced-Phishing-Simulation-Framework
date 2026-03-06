@@ -69,17 +69,17 @@ For SMS-based MFA, SIM swapping represents a more technical but highly effective
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        SIM Swapping Attack                       │
+│                        SIM Swapping Attack                      │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  Attacker → Social engineers mobile carrier → Convinces carrier  │
-│      ↓                                                           │
-│  Carrier transfers victim's number to attacker's SIM             │
-│      ↓                                                           │
-│  All SMS (including MFA codes) now go to attacker                │
-│      ↓                                                           │
-│  Attacker can log into any account using SMS MFA                 │
-│                                                                   │
+│                                                                 │
+│  Attacker → Social engineers mobile carrier → Convinces carrier │
+│      ↓                                                          │
+│  Carrier transfers victim's number to attacker's SIM            │
+│      ↓                                                          │
+│  All SMS (including MFA codes) now go to attacker               │
+│      ↓                                                          │
+│  Attacker can log into any account using SMS MFA                │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -108,25 +108,25 @@ This has become one of the most effective MFA bypass techniques in recent years.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                      MFA Fatigue Attack                          │
+│                      MFA Fatigue Attack                         │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  Step 1: Attacker has username/password                          │
-│              ↓                                                   │
-│  Step 2: Attacker initiates login, triggering push notification  │
-│              ↓                                                   │
-│  Step 3: User receives "Approve login?" prompt                   │
-│              ↓                                                   │
-│  Step 4: User ignores or denies                                  │
-│              ↓                                                   │
+│                                                                 │
+│  Step 1: Attacker has username/password                         │
+│              ↓                                                  │
+│  Step 2: Attacker initiates login, triggering push notification │
+│              ↓                                                  │
+│  Step 3: User receives "Approve login?" prompt                  │
+│              ↓                                                  │
+│  Step 4: User ignores or denies                                 │
+│              ↓                                                  │
 │  Step 5: Attacker triggers ANOTHER push                         │
-│              ↓                                                   │
+│              ↓                                                  │
 │  Step 6: Repeat... and repeat... and repeat...                  │
-│              ↓                                                   │
+│              ↓                                                  │
 │  Step 7: User, exhausted by notifications, finally taps ALLOW   │
-│              ↓                                                   │
-│  Step 8: Attacker gains access                                   │
-│                                                                   │
+│              ↓                                                  │
+│  Step 8: Attacker gains access                                  │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
