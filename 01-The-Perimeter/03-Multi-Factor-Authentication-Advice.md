@@ -21,21 +21,21 @@ When clients allow SMS-based MFA, they create a social engineering opportunity. 
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    SMS MFA Vishing Attack                        │
+│                    SMS MFA Vishing Attack                       │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  Step 1: Attacker compromises or obtains username/password       │
-│              ↓                                                   │
-│  Step 2: Attacker initiates login, triggering SMS MFA            │
-│              ↓                                                   │
-│  Step 3: Attacker calls victim posing as IT support              │
-│              ↓                                                   │
-│  Step 4: Victim receives SMS code naturally during call          │
-│              ↓                                                   │
-│  Step 5: Victim reads code to "helpful IT person"                │
-│              ↓                                                   │
-│  Step 6: Attacker completes login with code                      │
-│                                                                   │
+│                                                                 │
+│  Step 1: Attacker compromises or obtains username/password      │
+│              ↓                                                  │
+│  Step 2: Attacker initiates login, triggering SMS MFA           │
+│              ↓                                                  │
+│  Step 3: Attacker calls victim posing as IT support             │
+│              ↓                                                  │
+│  Step 4: Victim receives SMS code naturally during call         │
+│              ↓                                                  │
+│  Step 5: Victim reads code to "helpful IT person"               │
+│              ↓                                                  │
+│  Step 6: Attacker completes login with code                     │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
