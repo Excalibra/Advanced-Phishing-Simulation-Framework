@@ -152,7 +152,7 @@ After the victim submits the form, you can view the captured data:
 
 ## What's Next?
 
-You've successfully launched your first phishing campaign! In upcoming videos, we'll:
+You've successfully launched your first phishing campaign! In the next documents we'll:
 
 - Harden your GoPhish setup to avoid detection.
 - Improve email templates and landing pages for realism.
