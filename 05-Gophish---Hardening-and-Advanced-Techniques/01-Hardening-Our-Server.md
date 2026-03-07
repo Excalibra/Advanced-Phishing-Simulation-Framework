@@ -149,6 +149,9 @@ Look for the `Server:` header. It should now show your custom value (e.g., `Apac
 1. Send yourself a test email using GoPhish (as shown in previous lessons).
 2. In the received email, click the link and observe the URL parameter. It should now use your custom name (e.g., `?identifier=12345`) instead of `rid`.
 
+<img width="908" height="353" alt="image" src="https://github.com/user-attachments/assets/58baf48d-fa92-4550-90c7-e367c823c95f" />
+
+
 ---
 
 ## Example: Customizing the Parameter Further
@@ -156,7 +159,7 @@ Look for the `Server:` header. It should now show your custom value (e.g., `Apac
 If you want to change the parameter again in the future, simply rerun the `sed` command with a new value:
 
 ```bash
-find . -type f -exec sed -i 's/identifier/newparam/g' {} +
+sed -i 's/const RecipientParameter = "rid"/const RecipientPrameter = "identifier"/g' models/campaign.go
 ```
 
 Then rebuild and restart the service.
