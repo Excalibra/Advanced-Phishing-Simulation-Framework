@@ -3,7 +3,10 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 ## Table of Contents
 
-[01-The-Perimeter](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/tree/main/01-The-Perimeter)
+### [01-The-Perimeter](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/tree/main/01-The-Perimeter)
+[01 Modern Security Architecture](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/01-Modern-Security-Architecture.md)
+
+[02 Phishing Domains Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/02-Phishing-Domains-Advice.md)
 
 02-Domain-Registration
 
