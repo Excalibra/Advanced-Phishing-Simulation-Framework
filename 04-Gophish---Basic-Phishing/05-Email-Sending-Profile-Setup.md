@@ -28,6 +28,10 @@ Fill in the following fields:
 - **Username:** Your full Mailgun email address (e.g., `alerts@fishermanisland.com`).
 - **Password:** The password you saved when creating the SMTP user in Mailgun. If you lost it, you can reset it in the Mailgun dashboard under **Domains > SMTP Credentials**.
 
+
+<img width="1283" height="666" alt="image" src="https://github.com/user-attachments/assets/679ee038-36ab-467a-b607-c6fbe6cac071" />
+
+
 ---
 
 ## Step 2: Test the Sending Profile
@@ -46,6 +50,12 @@ If successful, you'll see a confirmation message: **Email Sent**.
 - **Check Mailgun Logs:** In your Mailgun dashboard, go to **Sending > Domains**, select your domain, and click **Logs**. You should see an entry for the test email, confirming it was accepted for delivery.
 
 *In my test, the email was received successfully after a short delay.*
+
+<img width="1097" height="627" alt="image" src="https://github.com/user-attachments/assets/c252704d-ab6d-43e0-b184-eec65f93702c" />
+
+
+<img width="1285" height="577" alt="image" src="https://github.com/user-attachments/assets/64e1ae17-faea-468e-a792-27584272e04f" />
+
 
 ---
 
