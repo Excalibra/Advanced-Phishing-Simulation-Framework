@@ -26,6 +26,11 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 ### 03-Email-Registration
 
+[01 Email Registrar Options](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/03-Email-Registration/01-Email-Registrar-Options.md)
+
+[02 Mailgun Setup](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/03-Email-Registration/02-Mailgun-Setup.md)
+
+
 <br>
 
 ### 04-Gophish---Basic-Phishing
