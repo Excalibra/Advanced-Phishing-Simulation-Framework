@@ -38,14 +38,25 @@ The landing page is where victims will be directed after clicking the link. We'l
 1. Go to **Landing Pages** and click **New Page**.
 2. **Name:** Enter `Test`.
 3. In the HTML editor, paste the following basic form code:
+
    ```html
-   <form method="post">
-       <h2>Sign In</h2>
-       <input type="text" name="username" placeholder="Username" required>
-       <input type="password" name="password" placeholder="Password" required>
-       <button type="submit">Login</button>
-   </form>
+   <html><head></head><body><form class="form-signin" action="" method="POST">
+    <br/>
+    <div style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">Username</div>
+    <input type="text" name="username" class="form-control top-input" required="" autofocus="" style="text-align: left; width: 420px; height:30px; border-radius: 10px; border-width: 1px; border-color: lightgrey;"/>
+    <br/>
+    <br/>
+    <div style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-weight: bold;">Password</div>
+    <input type="password" name="password" class="form-control bottom-input" autocomplete="off" required="" style="text-align: left; width:420px; height:30px; border-radius: 10px; border-width: 1px; border-color: lightgrey;"/>
+    <br/>
+    <br/>
+    <button type="submit" style="border-radius: 10px; width: 80px; background-color: #cfd7f8; height:40px; font-style: bold;">Login</button>
+   </form></body></html>
    ```
+
+   <img width="1284" height="660" alt="image" src="https://github.com/user-attachments/assets/de5132eb-b63a-474c-b397-4419f9b91453" />
+
+
 4. Click **Preview** to see how the form will look. It will be very basic—this is fine for testing.
 5. Check the boxes:
    - **Capture Submitted Data**
@@ -67,6 +78,9 @@ Before launching a campaign, you need at least one target.
    - **Email:** Use a disposable email address (e.g., from [10 Minute Mail](https://10minutemail.com))
    - **Position:** `Security Engineer` (optional)
 4. Click **Save Changes**.
+
+<img width="1278" height="656" alt="image" src="https://github.com/user-attachments/assets/6dcf2078-91ff-4dc4-bb5b-89d17d060c3a" />
+
 
 ---
 
@@ -103,6 +117,9 @@ Back in the GoPhish dashboard, you'll see events populate under the campaign:
 
 Click the dropdown arrow next to the campaign to expand details. You'll see timestamps for each event.
 
+<img width="1285" height="663" alt="image" src="https://github.com/user-attachments/assets/0bafec79-7157-4320-b6e8-cdb8a669cf81" />
+
+
 ### View Captured Credentials
 
 After the victim submits the form, you can view the captured data:
@@ -110,6 +127,11 @@ After the victim submits the form, you can view the captured data:
 - In the campaign details, scroll down to the **Submitted Data** section.
 - You'll see the username and password entered by the victim.
 - Optionally, you can use the **Replay Credentials** feature to automatically submit the captured credentials to a legitimate login page (e.g., if you know the actual login URL).
+
+<img width="1280" height="625" alt="image" src="https://github.com/user-attachments/assets/363245c3-a18e-4e0d-80ef-d906e1061a35" />
+
+<img width="1277" height="629" alt="image" src="https://github.com/user-attachments/assets/34c1271f-e188-42a6-86da-0f6c39909684" />
+
 
 ---
 
