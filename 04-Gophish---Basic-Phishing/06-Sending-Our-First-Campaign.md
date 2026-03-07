@@ -54,6 +54,9 @@ The landing page is where victims will be directed after clicking the link. We'l
    </form></body></html>
    ```
 
+
+   <img width="957" height="491" alt="image" src="https://github.com/user-attachments/assets/a96f761f-12cd-4981-9d9b-c7c4ab98eb15" />
+
    <img width="1284" height="660" alt="image" src="https://github.com/user-attachments/assets/de5132eb-b63a-474c-b397-4419f9b91453" />
 
 
