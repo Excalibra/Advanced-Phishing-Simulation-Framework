@@ -33,7 +33,24 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 <br>
 
-### 04-Gophish---Basic-Phishing
+### [04 Gophish---Basic-Phishing](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/tree/main/04-Gophish---Basic-Phishing)
+
+[01-Creating-an-AWS-EC2-Instance](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/01-Creating-an-AWS-EC2-Instance.md)
+
+[02-GoPhish-Setup](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/02-GoPhish-Setup.md)
+
+[03-Configuring-Gophish-as-a-System-Service](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/03-Configuring-Gophish-as-a-System-Service.md)
+
+[04-Configuring-TLS-Certificates](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/04-Configuring-TLS-Certificates.md)
+
+[05-Email-Sending-Profile-Setup](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/05-Email-Sending-Profile-Setup.md)
+
+[06-Sending-Our-First-Campaign](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/06-Sending-Our-First-Campaign.md)
+
+Extra:
+
+[genericPhishLanding.html](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/genericPhishLanding.html)
+
 
 <br>
 
