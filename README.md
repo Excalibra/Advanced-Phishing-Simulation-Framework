@@ -8,6 +8,13 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 [02 Phishing Domains Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/02-Phishing-Domains-Advice.md)
 
+[03 Multi-Factor Authentication Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/03-Multi-Factor-Authentication-Advice.md)
+
+[04 Spam Filters Avoidance Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/04-Spam-Filters-Avoidance-Advice.md)
+
+[05 Whitelisting Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/05-Whitelisting-Advice.md)
+
+
 ### 02-Domain-Registration
 
 ### 03-Email-Registration
