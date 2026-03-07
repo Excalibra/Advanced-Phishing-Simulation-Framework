@@ -15,7 +15,13 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 [05 Whitelisting Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/05-Whitelisting-Advice.md)
 
 
-### 02-Domain-Registration
+### [02-Domain-Registration](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/tree/main/02-Domain-Registration)
+
+[01 Domain Registrar Options](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/02-Domain-Registration/01-Domain-Registrar-Options.md)
+
+
+[02 Amazon AWS Route 53 Setup](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/02-Domain-Registration/02-Amazon-AWS-Route-53-Setup.md)
+
 
 ### 03-Email-Registration
 
