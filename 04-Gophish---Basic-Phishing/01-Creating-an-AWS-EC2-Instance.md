@@ -81,7 +81,7 @@ Once the instance is running, you'll need to connect to it using the `.pem` key 
 
 ## Next Steps
 
-Now that your EC2 instance is set up and you have SSH access, the next series of videos will cover:
+Now that your EC2 instance is set up and you have SSH access, the next files will cover:
 
 - Installing and configuring **GoPhish** on your Ubuntu instance.
 - Additional security configurations within AWS to protect your phishing server.
