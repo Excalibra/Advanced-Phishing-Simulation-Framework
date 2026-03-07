@@ -24,6 +24,10 @@ Mailgun will now display a list of DNS records that need to be added to your dom
 
 You'll need to create several records in Route 53 based on the values provided by Mailgun. Below are the specific records to add.
 
+
+<img width="1199" height="605" alt="image" src="https://github.com/user-attachments/assets/ee8fc561-c409-4fd8-be71-9f681f806057" />
+
+
 #### **TXT Record (SPF)**
 - **Record Type:** TXT
 - **Host Name:** `FishermanIsland.com` (leave blank if the domain is automatically appended)
@@ -54,6 +58,9 @@ After adding all records in Route 53, return to Mailgun and click the **Verify D
 ### 4. Create SMTP Credentials
 
 Once the domain is active, you'll need to create SMTP credentials to send emails.
+
+<img width="1084" height="610" alt="image" src="https://github.com/user-attachments/assets/8b28c6bb-10d1-4255-b07d-78078f0288fb" />
+
 
 1. In the Mailgun domain settings, go to **SMTP Credentials**.
 2. Click **Add New SMTP User**.
