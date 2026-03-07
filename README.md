@@ -20,20 +20,32 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 [01 Domain Registrar Options](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/02-Domain-Registration/01-Domain-Registrar-Options.md)
 
-
 [02 Amazon AWS Route 53 Setup](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/02-Domain-Registration/02-Amazon-AWS-Route-53-Setup.md)
 
+<br>
 
 ### 03-Email-Registration
 
+<br>
+
 ### 04-Gophish---Basic-Phishing
+
+<br>
 
 ### 05-Gophish---Hardening-and-Advanced-Techniques
 
+<br>
+
 ### 06-Evilginx---MFA-Bypass
+
+<br>
 
 ### 07-Evilgophish---SMS-Phishing
 
+<br>
+
 ### 08-Vishing-Strategies
+
+<br>
 
 ### 09-Reporting,-Documentation,-and-Cleaning-Up
