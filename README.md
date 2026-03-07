@@ -8,18 +8,18 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 [02 Phishing Domains Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/02-Phishing-Domains-Advice.md)
 
-02-Domain-Registration
+### 02-Domain-Registration
 
-03-Email-Registration
+### 03-Email-Registration
 
-04-Gophish---Basic-Phishing
+### 04-Gophish---Basic-Phishing
 
-05-Gophish---Hardening-and-Advanced-Techniques
+### 05-Gophish---Hardening-and-Advanced-Techniques
 
-06-Evilginx---MFA-Bypass
+### 06-Evilginx---MFA-Bypass
 
-07-Evilgophish---SMS-Phishing
+### 07-Evilgophish---SMS-Phishing
 
-08-Vishing-Strategies
+### 08-Vishing-Strategies
 
-09-Reporting,-Documentation,-and-Cleaning-Up
+### 09-Reporting,-Documentation,-and-Cleaning-Up
