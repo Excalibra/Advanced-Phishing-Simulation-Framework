@@ -13,6 +13,7 @@ Congratulations on setting up your GoPhish infrastructure! Now it's time to laun
 5. Add some simple text, e.g., `Hello, please click me`.
 6. Highlight the text `click me` and click the **Hyperlink** icon.
 
+
    <img width="1282" height="659" alt="image" src="https://github.com/user-attachments/assets/be6fa065-87e5-442b-8826-4252b7beff27" />
 
 
