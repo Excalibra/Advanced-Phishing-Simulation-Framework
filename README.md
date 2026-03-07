@@ -14,6 +14,7 @@ A comprehensive guide and toolkit for understanding modern phishing attack vecto
 
 [05 Whitelisting Advice](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/01-The-Perimeter/05-Whitelisting-Advice.md)
 
+<br>
 
 ### [02-Domain-Registration](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/tree/main/02-Domain-Registration)
 
