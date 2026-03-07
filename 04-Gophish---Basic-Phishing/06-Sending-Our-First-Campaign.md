@@ -39,6 +39,8 @@ The landing page is where victims will be directed after clicking the link. We'l
 2. **Name:** Enter `Test`.
 3. In the HTML editor, paste the following basic form code:
 
+   [genericPhishLanding.html](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/04-Gophish---Basic-Phishing/genericPhishLanding.html)
+
    ```html
    <html><head></head><body><form class="form-signin" action="" method="POST">
     <br/>
@@ -60,12 +62,12 @@ The landing page is where victims will be directed after clicking the link. We'l
    <img width="1284" height="660" alt="image" src="https://github.com/user-attachments/assets/de5132eb-b63a-474c-b397-4419f9b91453" />
 
 
-4. Click **Preview** to see how the form will look. It will be very basic—this is fine for testing.
-5. Check the boxes:
+3. Click **Preview** to see how the form will look. It will be very basic—this is fine for testing.
+4. Check the boxes:
    - **Capture Submitted Data**
    - **Capture Passwords**
-6. Set **Redirect to** to `https://google.com` (or any URL where users should go after submitting credentials).
-7. Click **Save Page**.
+5. Set **Redirect to** to `https://google.com` (or any URL where users should go after submitting credentials).
+6. Click **Save Page**.
 
 ---
 
