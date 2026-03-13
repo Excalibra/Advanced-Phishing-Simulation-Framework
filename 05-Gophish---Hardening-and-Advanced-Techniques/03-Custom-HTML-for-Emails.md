@@ -15,6 +15,9 @@ In this section, we'll explore advanced techniques for creating sophisticated em
 
 Copy and paste your pre-built HTML code into the HTML editor. The code for this example:
 
+[generic_email.html](https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework/blob/main/05-Gophish---Hardening-and-Advanced-Techniques/generic_email.html)
+
+
 ```html
 <html>
 
