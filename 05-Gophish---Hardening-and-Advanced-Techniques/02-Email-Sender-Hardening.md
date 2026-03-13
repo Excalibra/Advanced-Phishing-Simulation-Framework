@@ -17,9 +17,6 @@ When you send emails through GoPhish, default headers are automatically added th
 
    - Click "Edit" on your existing sending profile (e.g., "alerts Fish Island")
   
-     <img width="957" height="473" alt="image" src="https://github.com/user-attachments/assets/764ee72e-9790-4eb6-989b-549f07ac4ff3" />
-
-
 
 2. **Add Custom Headers**
    
@@ -45,6 +42,8 @@ When you send emails through GoPhish, default headers are automatically added th
    Value: ignore
    ```
 
+     <img width="957" height="473" alt="image" src="https://github.com/user-attachments/assets/764ee72e-9790-4eb6-989b-549f07ac4ff3" />
+     
    > **Note:** These exact header names and values will also be provided in the course notes for easy reference.
 
 ## Why This Matters
